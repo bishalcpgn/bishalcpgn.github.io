@@ -1,0 +1,6 @@
+# How to report a security issue with this site. Format: RFC 9116.
+# Push Expires forward before it lapses (keep it under a year out).
+Contact: https://www.linkedin.com/in/bishal123/
+Expires: 2027-11-01T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://bishalchapagain123.com.np/.well-known/security.txt

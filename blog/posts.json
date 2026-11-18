@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "what-slsa-actually-promises-and-what-it-doesnt",
+    "title": "What SLSA actually promises (and what it doesn’t)",
+    "subtitle": "",
+    "date": "2026-08-13",
+    "minutes": 12,
+    "excerpt": "A beginner’s guide to software supply chain security.",
+    "tags": [
+      "Supply chain",
+      "SLSA"
+    ],
+    "source": "https://medium.com/@bishal_cpgn/what-slsa-actually-promises-and-what-it-doesnt-fd7686667725",
+    "linkedin": ""
+  },
+  {
+    "slug": "four-supply-chain-attacks",
+    "title": "Four supply chain attacks that changed how I think about software security",
+    "subtitle": "",
+    "date": "2026-07-31",
+    "minutes": 9,
+    "excerpt": "We started the project last spring. New service, six weeks to ship, so we did what everyone does and reached for the ecosystem. By the time the first build went green the lockfile had 1,247 entries in it. We had chosen…",
+    "tags": [
+      "Supply chain",
+      "Security"
+    ],
+    "source": "https://medium.com/@bishal_cpgn/four-supply-chain-attacks-that-changed-how-i-think-about-software-security-c0e93bf99ef9",
+    "linkedin": ""
+  },
+  {
+    "slug": "your-threat-model-assumes-the-system-holds-still-your-ai-agent-doesnt",
+    "title": "Your Threat Model Assumes the System Holds Still. Your AI Agent Doesn’t.",
+    "subtitle": "A security practitioner’s guide to STRIDE, DREAD, PASTA, and why agentic AI needs MAESTRO.",
+    "date": "2026-07-31",
+    "minutes": 10,
+    "excerpt": "You know the ritual. Boxes for the processes, arrows for the data, a couple of dotted lines where trust changes hands, then a STRIDE pass laid over the top. If you have been doing this for more than a year, you can…",
+    "tags": [
+      "AI security",
+      "Threat modeling"
+    ],
+    "source": "https://blog.stackademic.com/your-threat-model-assumes-the-system-holds-still-your-ai-agent-doesnt-f7148df1b0ea",
+    "linkedin": ""
+  }
+]
